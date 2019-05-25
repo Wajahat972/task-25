@@ -1,0 +1,19 @@
+.intro{
+    display:flex;
+    align-items:center;
+    width:220px;
+    justify-content: space-between;
+}
+.fa-bell{
+margin-right:60px;
+
+}
+.left{
+background:#800785;
+width:200px;
+height:100%;
+}
+.fa-circle{
+    color:white;
+    font-size: 12px;
+}
